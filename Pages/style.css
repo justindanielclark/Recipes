@@ -1,0 +1,8 @@
+.wrapper {
+    background-color: aliceblue;
+    width: 600px;
+    margin: 0 auto;
+    border: 2px solid tan;
+    border-radius: 1%;
+    padding: 10px;
+}
